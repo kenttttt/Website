@@ -1,0 +1,147 @@
+.image-text {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 100%;
+	font-family: Bebas Neue;
+}
+
+.item1 {
+	background-image: url(../images/lebron16.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item2 {
+	background-image: url(../images/lebron14.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border: 3px white solid;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+}
+
+.item3 {
+	background-image: url(../images/soldier12.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item4 {
+	background-image: url(../images/zoom.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item5 {
+	background-image: url(../images/jordan5.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item6 {
+	background-image: url(../images/jordan10.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.text1 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+.text2 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+.text3 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+.text4 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+.text5 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+.text6 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	display: inline;
+	border: 3px white solid;
+	padding: 10px;
+	font-family: Bebas Neue;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+body {
+	background: black;
+}

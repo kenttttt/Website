@@ -1,0 +1,76 @@
+.header {
+	display: grid;
+	grid-template-columns: 1fr 9fr;
+	padding: 10px;
+	margin-bottom: 10px;
+	grid-gap: 10px;
+	text-align: center;
+	font-family: Bebas Neue;
+	color: white;
+}
+
+.about {
+	padding: 10px;
+	border: 3px white solid;
+}
+
+.home {
+	padding: 10px;
+	border: 3px white solid;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.owner {
+	text-align: center;
+	border: 3px white solid;
+	margin-bottom: 10px;
+}
+
+.container {
+	height: 48vh;
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	padding: 10px;
+	grid-gap: 10px;
+}
+
+.text {
+	border: 3px white solid;
+	font-family: Bebas Neue;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+.imageme {
+	background-image: url(../images/me.jpg);
+	background-position: center;
+	background-size: contain;
+	border: 3px white solid;
+}
+
+.imageshop {
+	background-image: url(../images/image2.jpg);
+	background-position: center;
+	background-size: contain;
+	border: 3px white solid;
+}
+
+.shop {
+	text-align: center;
+	border: 3px white solid;
+	margin-bottom: 10px;
+}
+
+body {
+	background: black;
+}
+
+h3 {
+	color: white;
+	font-family: Bebas Neue;
+}

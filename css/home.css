@@ -1,0 +1,78 @@
+.header {
+	display: grid;
+	grid-template-columns: 1fr 9fr;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.logo {
+	background-image: url(../images/logo.jpg);
+	background-position: center;
+	background-size: contain;
+	border: 3px white solid;
+	border-radius: 50%;
+	height: 15vh;
+	width: 15vh;
+}
+
+.menu {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+li {
+	list-style: none;
+	text-align: center;
+	font-family: Bebas Neue;
+	grid-gap: 2px;
+	padding: 10px;	
+	color: white;
+	border: 3px white solid;
+}
+
+ul {
+	padding: 0px;
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(3,1fr);
+}
+
+a {
+	text-decoration: none;
+}
+
+.Eliteshop {
+	background-image: url(../images/showcase.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 80vh;
+	border: 3px white solid;
+	margin-bottom: 10px;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 3fr 2fr;
+	grid-gap: 10px;
+	height: 60vh;
+	margin-bottom: 10px;
+}
+
+.text {
+	border: 3px white solid;
+	text-align: center;
+	font-family: Bebas Neue;
+	color: white;
+	font-size: 60px;
+}
+
+.image {
+	background-image: url(../images/home.jpg);
+	background-position: center;
+	background-size: contain;
+	border: 3px white solid;
+}
+
+body {
+	background: black;
+}

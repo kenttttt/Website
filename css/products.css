@@ -1,0 +1,169 @@
+.header {
+	display: grid;
+	grid-template-columns: 1fr 9fr;
+	padding: 10px;
+	margin-bottom: 10px;
+	grid-gap: 10px;
+	text-align: center;
+	padding: 10px;
+	font-family: Bebas Neue;
+	color: white;
+}
+
+.products {
+	padding: 10px;
+	border: 3px white solid;
+}
+
+.home {
+	padding: 10px;
+	border: 3px white solid;
+}
+
+.image-text {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 100%;
+	font-family: Bebas Neue;
+}
+
+.item1 {
+	background-image: url(../images/curry1.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item2 {
+	background-image: url(../images/curry2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item3 {
+	background-image: url(../images/curry4.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item4 {
+	background-image: url(../images/curry5.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item5 {
+	background-image: url(../images/curry6.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.item6 {
+	background-image: url(../images/lebron15.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px;
+	border: 3px white solid;
+	height: 45vh;
+	width: 60%;
+}
+
+.text1 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+}
+
+.text2 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+}
+
+.text3 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+}
+
+.text4 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+}
+
+.text5 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+}
+
+.text6 {
+	background-repeat: no-repeat;
+	padding: 10px;
+	height: 45vh;
+	width: 60%;
+	text-align: center;
+}
+
+
+.more {
+	text-align: center;
+	border: 3px white solid;
+	margin-bottom: 10px; 
+	font-family: Bebas Neue;
+}
+
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+body {
+	background: black;
+}
+
+h1 {
+	color: white;
+}
